@@ -45,18 +45,4 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">📅 Productive Box 📅</h3>
-
-<p align="center">
-  <!-- Your productive-box image here -->
-</p>
-
----
-
-<h3 align="center">📈 Github Stats Box 📈</h3>
-
-<p align="center">
-  <!-- Your github-stats-box image here -->
-</p>
-
 
