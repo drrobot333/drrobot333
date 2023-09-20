@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">👾 BaekJoon 👾</h3>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=drrobot333)](https://solved.ac/drrobot333)
+<p align="center">
+  <a href="https://solved.ac/drrobot333"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=drrobot333" ></a>
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=drrobot333)](https://solved.ac/drrobot333) -->
+</p>
 
 ---
 
